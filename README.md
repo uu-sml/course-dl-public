@@ -1,11 +1,8 @@
 ## Deep Learning 1RT720
 
-This repository is used to host the files needed for the computer labs in the course Deep Learning at Uppsala University.
+This repository is used to host the files needed for the computer labs and hand-in assignments in the course Deep Learning at Uppsala University.
 
 ### Computer lab 1
-
-For Computer lab 1 about backpropagation, the following resources are available:
-
 | Topic | File | Links |
 |:------|:-----|:------|
 | Lab instructions | instructions.pdf | [![PDF](https://img.shields.io/badge/Instructions-PDF-ee3f24?logo=Adobe%20Acrobat%20Reader&style=flat)](https://uu-sml.github.io/course-dl-public/Lab1/instructions.pdf) |
@@ -20,7 +17,6 @@ For Computer lab 1 about backpropagation, the following resources are available:
 
 
 ### Computer lab 2 (not yet updated for 2026 course instance)
-
 | Topic | File | Links |
 |:------|:-----|:------|
 | Lab notebook | lab2_transformer.ipynb | <a href="https://uu-sml.github.io/course-dl-public/Lab2/lab2_transformer.ipynb"><img src="https://img.shields.io/badge/Introduction-Notebook-f37626?logo=jupyter&style=flat"  alt="Introduction Notebook" title="Download notebook" /></a> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uu-sml/course-dl-public/blob/main/Lab2/lab2_transformer.ipynb)
