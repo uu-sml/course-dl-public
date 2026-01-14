@@ -1,1 +1,6 @@
 theme: jekyll-theme-tactile
+markdown: GFM
+kramdown:
+  input: GFM
+  parse_block_html: true
+  parse_span_html: true
