@@ -15,7 +15,6 @@ This repository is used to host the files needed for the computer labs and hand-
 |:------|:-----|:------|
 | Assignment instructions | hand-in-assignment-1.pdf | [![PDF](https://img.shields.io/badge/Instructions-PDF-ee3f24?logo=Adobe%20Acrobat%20Reader&style=flat)](https://uu-sml.github.io/course-dl-public/HA1/hand-in-assignment-1.pdf) |
 
-
 ### Computer lab 2 (not yet updated for 2026 course instance)
 | Topic | File | Links |
 |:------|:-----|:------|
