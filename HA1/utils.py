@@ -54,12 +54,12 @@ def training_curve_plot(title, train_costs, test_costs, train_accuracy, test_acc
     # Input
     # title - title for the plot
     # train_costs - Array of training costs
-    # test_costs - Array of training costs
+    # test_costs - Array of test costs
     # train_accuracies - Array of training accuracies
     # test_accuracies - Array of test accuracies
     # batch_size - batch size for training data used during training
     # num_epochs - Number of epochs used during training
-    # elapsed - Time elapsed during training
+    # elapsed - Time elapsed in seconds during training
 
     lg=18
     md=13
