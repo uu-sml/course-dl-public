@@ -21,7 +21,7 @@ This repository is used to host the files needed for the computer labs and hand-
 
 | Topic | File | Links |
 |:------|:-----|:------|
-| Lab notebook | lab2_transformer.ipynb | <a href="https://uu-sml.github.io/course-dl-public/Pytorch_Tutorial/PyTorch_Tutorial.ipynb"><img src="https://img.shields.io/badge/Introduction-Notebook-f37626?logo=jupyter&style=flat"  alt="Introduction Notebook" title="Download notebook" /></a> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uu-sml/course-dl-public/blob/main/Pytorch_Tutorial/PyTorch_Tutorial.ipynb) |
+| Tutorial notebook | PyTorch_Tutorial.ipynb | <a href="https://uu-sml.github.io/course-dl-public/Pytorch_Tutorial/PyTorch_Tutorial.ipynb"><img src="https://img.shields.io/badge/Introduction-Notebook-f37626?logo=jupyter&style=flat"  alt="Introduction Notebook" title="Download notebook" /></a> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uu-sml/course-dl-public/blob/main/Pytorch_Tutorial/PyTorch_Tutorial.ipynb) |
 
 
 ### Computer lab 2 (not yet updated for 2026 course instance)
