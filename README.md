@@ -16,6 +16,8 @@ This repository is used to host the files needed for the computer labs and hand-
 | Topic | File | Links |
 |:------|:-----|:------|
 | Assignment instructions | hand-in-assignment-1.pdf | [![PDF](https://img.shields.io/badge/Instructions-PDF-ee3f24?logo=Adobe%20Acrobat%20Reader&style=flat)](https://uu-sml.github.io/course-dl-public/HA1/hand-in-assignment-1.pdf) |
+| Assignment instructions | hand-in-assignment-2.pdf | [![PDF](https://img.shields.io/badge/Instructions-PDF-ee3f24?logo=Adobe%20Acrobat%20Reader&style=flat)](https://uu-sml.github.io/course-dl-public/HA2/hand-in-assignment-2.pdf) |
+
 
 ### PyTorch Tutorial
 
