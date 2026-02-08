@@ -86,3 +86,26 @@ def training_curve_plot(title, train_costs, test_costs, train_accuracy, test_acc
     axs[1].set_ylabel('Accuracy (%)', fontsize=sm)
     axs[1].legend(fontsize=sm)
     axs[1].tick_params(axis='both', labelsize=sm)      
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+from sklearn.metrics import confusion_matrix
+def plot_confusion_matrix(y_labels, y_preds):
+    class_names = np.arange(10) # for MNIST labels
+    cm = confusion_matrix(y_labels, y_preds).astype(np.float64)
+    
+    plt.figure(figsize=(6, 6))
+    plt.imshow(cm, interpolation='nearest', cmap='coolwarm')
+    plt.title("Confusion Matrix")
+    plt.colorbar(shrink=0.75, fraction=0.05)
+    
+    tick_marks = np.arange(len(class_names))
+    plt.xticks(tick_marks, class_names)
+    plt.yticks(tick_marks, class_names)
+
+    plt.xlabel("Predicted label")
+    plt.ylabel("True label")
+    
+    plt.tight_layout()
+    plt.show()
